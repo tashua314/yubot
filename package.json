@@ -18,7 +18,7 @@
     "hubot-scripts": "^2.5.16 < 3.0.0",
     "hubot-shipit": "^0.1.1",
     "hubot-youtube": "^0.1.2",
-    "hubot-twitter-userstream": ""
+    "hubot-twitter": ""
   },
   "engines": {
     "node": "0.10.x"
